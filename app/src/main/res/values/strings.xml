@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProjectBeerAndroid</string>
+    <string-array name="beer_types">
+        <item>lager</item>
+        <item>pilsen</item>
+        <item>bock</item>
+        <item>amber</item>
+        <item>weiss</item>
+    </string-array>
+</resources>
